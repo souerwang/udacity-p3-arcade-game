@@ -1,1 +1,1 @@
-f
+image resource for arcade game
